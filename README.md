@@ -3,7 +3,8 @@
 Яндекс Самокат — позволяет пользователям заранее зазазать на домой самокаты на определенное время и место. 
 Пользователи получают гарантированную доступность, уведомления, и могут гибко управлять заказами через веб-приложение.
 
-![image](https://github.com/user-attachments/assets/07e9d4a6-ca58-4f1d-a6a7-53673c94e8b6)
+![image](https://github.com/user-attachments/assets/3ae0424c-341e-4561-be96-473860b46472)
+
 
 
 <details>
@@ -227,7 +228,7 @@
 
 <details>
   <summary>Чек-лист</summary> 
-https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk8cY/edit?gid=943703744#gid=943703744
+[Чек-лист](https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk8cY/edit?gid=943703744#gid=943703744)
   
 </details>
 
