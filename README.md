@@ -230,8 +230,6 @@
 <details>>
   <summary>Чек-лист</summary> 
 https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk8cY/edit?gid=943703744
-[Арабаджян Карлен — диплом_Инженер по тестированию .xlsx](https://github.com/user-attachments/files/16958418/_.xlsx)
-
 
 </details>
 <details>
