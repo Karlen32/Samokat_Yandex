@@ -226,12 +226,12 @@
 
 </details>
 
-<details#gid=943703744 
-</details>>
+
+<details>>
   <summary>Чек-лист</summary> 
 https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk8cY/edit?gid=943703744
 
-<details>
+</details>
   <summary>Задание 2</summary> 
 
 Обрати внимание на техническую информацию при запуске приложения.
@@ -608,7 +608,7 @@ https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk
 <details>
   <summary>Баг-репорты</summary> 
 
-  [баг-репортыъ(https://karlen.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20Diploma)
+  [баг-репорты](https://karlen.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20Diploma)
 
 </details>
 
