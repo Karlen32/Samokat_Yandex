@@ -220,7 +220,7 @@
 <details>
   <summary>Макеты(Figma)</summary> 
 
-  https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web
+  [макеты](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web)
 
 ![image](https://github.com/user-attachments/assets/4fc61ec0-61c3-4ece-9d78-5d79d2fe1785)
 
@@ -412,7 +412,7 @@ https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk
  <details>
   <summary>Макеты(Figma)</summary> 
    
-  https://www.figma.com/design/kqLqPvSvjLVLomkdadkAnk/mobile
+  [макеты](https://www.figma.com/design/kqLqPvSvjLVLomkdadkAnk/mobile)
    
   ![image](https://github.com/user-attachments/assets/89d62f90-c61e-4236-8c41-14baf5c45c63)
 
