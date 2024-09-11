@@ -224,7 +224,7 @@
 
 <details>
   <summary>Чек-лист</summary> 
-  ![Чек-листы тут](https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk8cY/edit?gid=943703744#gid=943703744)
+- [Чек-листы тут](https://docs.google.com/spreadsheets/d/1P0-mUWO0AT1GBVZkK4_u9wQC-xYcEtGymEvTNFhk8cY/edit?gid=943703744#gid=943703744)
   
 </details>
 
